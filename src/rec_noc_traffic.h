@@ -23,6 +23,7 @@
 #include <iostream>
 #include <vector>
 #include "rec_proc.h"
+#include <stdio.h>
 
 using namespace std;
 

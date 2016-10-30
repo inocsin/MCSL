@@ -16,7 +16,7 @@
  *********************************************************************************/
 #include "stat_noc_traffic.h"
 #include "rec_noc_traffic.h"
-
+#include <string.h>
 using namespace std;
 const char software[] = "MCSL Traffic Loader";
 const char version[] = " v1.6";

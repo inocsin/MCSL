@@ -23,6 +23,7 @@
 #include <iostream>
 #include <vector>
 #include "stat_proc.h"
+#include <stdio.h>
 
 using namespace std;
 
